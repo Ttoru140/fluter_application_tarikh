@@ -71,7 +71,7 @@ class HomePage extends StatelessWidget {
                             Container(
                               padding: const EdgeInsets.all(4.0),
                               child: Text(
-                                "You have to return the chemistry book to the Central Library at 9.00 am",
+                                "You have to remember that allah is always looking at you",
                                 style: TextStyle(fontSize: 16),
                               ),
                             ),
